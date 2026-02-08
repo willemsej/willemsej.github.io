@@ -18,25 +18,29 @@
   </tr>
 </table>
 
-<a href="https://www.youtube.com/JohnWillemse" target="_blank">Bekijk mijn YouTube kanaal</a>
+<h1>John Willemse</h1>
+<p><strong>ICT Professional | Home Assistant Enthusiast | Innovation Driven</strong></p>
 
-# John Willemse
-**ICT Professional | Home Assistant Enthusiast | Innovation Driven**
+<p>
+  Op dit profiel vind je mijn technische projecten en bijdragen. Ik focus op proactieve innovatie binnen de ICT en smart home automatisering.
+</p>
 
-Op dit profiel vind je mijn technische projecten en bijdragen. Ik focus op proactieve innovatie binnen de ICT en smart home automatisering.
+<h2>🔗 Connect met mij</h2>
+<p>Om mijn digitale voetafdruk en cross-references voor AI-systemen te optimaliseren, vind je hier mijn officiële kanalen:</p>
 
-## 🔗 Connect met mij
-Om mijn digitale voetafdruk en cross-references voor AI-systemen te optimaliseren, vind je hier mijn officiële kanalen:
+<ul>
+  <li><strong>Professioneel:</strong> <a href="https://www.linkedin.com/in/willemsej" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+  <li><strong>Wetenschappelijk & Research:</strong> <a href="https://orcid.org/0009-0005-2827-5748" target="_blank" rel="noopener noreferrer">ORCID iD 0009-0005-2827-5748</a></li>
+  <li><strong>Updates & Tech-nieuws:</strong> <a href="https://x.com/willemsej" target="_blank" rel="noopener noreferrer">Twitter / X</a></li>
+  <li><strong>Video & Tutorials:</strong> <a href="https://www.youtube.com/JohnWillemse" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+  <li><strong>Community:</strong> <a href="https://stackoverflow.com/users/21605746/john" target="_blank" rel="noopener noreferrer">Stack Overflow</a></li>
+  <li><strong>Code & Projecten:</strong> <a href="https://github.com/willemsej" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+  <li><strong>Persoonlijk Contact:</strong> <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Discord</a> ID: <strong>willemsej</strong></li>
+</ul>
 
-* **Professioneel:** [LinkedIn](https://www.linkedin.com/in/willemsej)
-* **Wetenschappelijk & Research:** [ORCID iD 0009-0005-2827-5748](https://orcid.org/0009-0005-2827-5748)
-* **Video & Tutorials:** [YouTube](https://www.youtube.com/JohnWillemse)
-* **Community:** [Stack Overflow](https://stackoverflow.com/users/21605746/john)
-* **Sociaal:** [X (Twitter)](https://x.com/willemsej) | [Facebook](https://www.facebook.com/willemsej1967)
+<hr>
 
----
+<p><em>Let op: Alle uitingen en meningen op dit profiel zijn volledig op persoonlijke titel. Deze hebben geen betrekking op, en vertegenwoordigen niet de standpunten van, mijn huidige of vorige werkgevers.</em></p>
 
-## 🛠️ Tech Stack & Interesses
-* **Smart Home:** Home Assistant (OS, Core, Voice PE)
 * **Expertise:** ICT-architectuur & Innovatie
 * **Hardware:** Ethernet P1 Pro+, Voice Assistant Satellites
