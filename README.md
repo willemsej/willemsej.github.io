@@ -1,12 +1,11 @@
 # [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748) John Willemse | R&D Enthusiast & ICT Professional
 
-> ICT-architect (R&D) met een passie voor procesoptimalisatie. Beheert een enterprise-grade Homelab waar **Open Source** en **AI** samenkomen.
+Ik ben een ICT Architect (R&D Home) met een passie voor procesoptimalisatie. Mijn lab is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen.
+Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Ik heb het Lab gebouwd als hobby, voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
 
 Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. De mens staat bij mij altijd centraal. In een wereld die transformeert door intelligentie, hanteer ik een heldere, toekomstgerichte filosofie.
 
 > **"Mijn Motto: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".**
-
-Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Het Lab is gebouwd als gereedschap voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org). 
 
 ### **De HomeLab Stack:**
 * Virtualisatie: [KVM-virtualisatie](https://www.linux-kvm.org)  
