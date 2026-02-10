@@ -37,8 +37,8 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 * OS Focus: [Open Source](https://opensource.com/)
 * Energy: [Tado](https://www.tado.com), [SolarEdge](https://www.solaredge.com), [Ethernet P1 Pro+](https://smart-stuff.nl/)
 * Workflow Engine: [n8n](https://n8n.io), [Node-RED](https://nodered.org/)
-* Document Management Systeem: [HCL Domino](https://www.hcl-software.com/domino) 
-* Creatieve Integratie: Ik gebruik [HCL Domino](https://www.hcl-software.com/domino) voor de opslag van manuals, documentatie en de rapportage vanuit [Grafana](https://grafana.com). Mijn eigen Documnet Manage Sysyeem (DMS) op [HCL Domino](https://www.hcl-software.com/domino) !
+* Document Management Systeem (DMS): [HCL Domino](https://www.hcl-software.com/domino) 
+* Creatieve Integratie: Ik gebruik [HCL Domino](https://www.hcl-software.com/domino) voor de historische rapportage vanuit [Grafana](https://grafana.com). 
 
 > **Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste stap te zijn geweest voor de toekomst. Wat ooit begon als een persoonlijke fascinatie voor techniek en dan hierin ook een baan met passie vinden, was een droom. Ik heb dat kunnen omzetten naar mijn werk !
 
