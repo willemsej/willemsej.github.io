@@ -7,11 +7,19 @@ Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, foc
 > **"Mijn Motto: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".**
 
 Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Het Lab is gebouwd als gereedschap voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org). 
-* **Virtualisatie:** [KVM-virtualisatie](https://www.linux-kvm.org)  
-* **Data Storage:  [QNAP](https://www.qnap.com), [HCL Domino](https://www.hcl-software.com/domino)
+
+* **Virtualisatie:[KVM-virtualisatie](https://www.linux-kvm.org)  
+* **Data Storage: [QNAP](https://www.qnap.com), [HCL Domino](https://www.hcl-software.com/domino)
 * **Data Protection: [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/proxmox-backup-server)
-* **AI-Lifeline:** [Gemini AI-API](https://ai.google.dev/)
-* **Monitoring & Analyse:** [Grafana](https://grafana.com), [Home Assistant (HA)](https://www.home-assistant.io)
+* **Data Analyse: [Grafana](https://grafana.com)
+* **AI Lifeline: [Gemini AI-API](https://ai.google.dev/)
+* **AI Focus: [Voice Pipeline Edition (PE)](https://voice-pe.home-assistant.io)
+* **Workflow Engine: [n8n](https://n8n.io), [Node-RED](https://nodered.org/).
+* **FireWall: [PfSence](https://www.pfsense.org/), [Netgate SG Series](https://www.netgate.com/)
+* **VPN Router: [ExpressVPN](https://www.expressvpn.com/) (NUC op Bare Metal)
+* **WiFi: [Netgear](https://www.netgear.com/)
+* **Monitoring & Analyse: [Grafana](https://grafana.com), [Home Assistant (HA)](https://www.home-assistant.io)
+* **Database: [InfluxDB](https://www.influxdata.com), [HCL Domino](https://www.hcl-software.com/domino)
 * **Creatieve Integratie:** Ik gebruik mijn kennis in [HCL Domino Email Routing & Topologie](https://www.hcl-software.com/domino) voor de opslag van manuals, documentatie en de rapportage vanuit [Grafana](https://grafana.com). Mijn eigen creatieve keuze!
 
 ### Onderzoek:
