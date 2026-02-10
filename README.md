@@ -17,7 +17,7 @@ Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, foc
 * Passwrod Polivy: [LastPass](https://www.lastpass.com/)
 * FireWall: [PfSence](https://www.pfsense.org/), [Netgate SG Series](https://www.netgate.com/)
 * VPN Router: [ExpressVPN](https://www.expressvpn.com/) (NUC op Bare Metal)
-* Networking: [AdGuard Home](https://adguard.com/nl/adguard-home/overview.html), [Twingate]https://www.twingate.com)
+* Networking: [AdGuard Home](https://adguard.com/nl/adguard-home/overview.html) [Twingate](https://www.twingate.com)
 * Security: [DigiCert](https://www.digicert.com), [TOTP (2FA)](https://en.wikipedia.org/wiki/Time-based_one-time_password)
 * WiFi: [Netgear](https://www.netgear.com/)
 * AI Focus: [Voice Pipeline Edition (PE)](https://voice-pe.home-assistant.io)
