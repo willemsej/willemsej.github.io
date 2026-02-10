@@ -1,3 +1,7 @@
+<table width="100%">
+<tr style="border: none;">
+<td bgcolor="#f0f2f5" style="padding: 30px; border: none; border-radius: 15px;">
+
 # [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748) John Willemse | R&D Enthusiast & ICT Professional
 
 Ik ben een ICT Architect (R&D Home) met een passie voor procesoptimalisatie. Mijn lab is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen.
