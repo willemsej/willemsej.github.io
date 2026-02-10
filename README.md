@@ -40,7 +40,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 * Document Management Systeem (DMS): [HCL Domino](https://www.hcl-software.com/domino) 
 * Creatieve Integratie: Ik gebruik [HCL Domino](https://www.hcl-software.com/domino) voor de historische rapportage vanuit [Grafana](https://grafana.com). 
 
-> **Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste stap te zijn geweest voor de toekomst. Wat ooit begon als een persoonlijke fascinatie voor techniek en dan hierin ook een baan met passie vinden, was een droom. Ik heb dat kunnen omzetten naar mijn werk !
+> **Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste keuze te zijn geweest voor de toekomst. Wat ooit begon als een persoonlijke fascinatie voor techniek en dan hierin ook een baan met passie te vinden, was voor mijn een droom. Ik heb dat kunnen omzetten naar werk !**
 
 ### HCL Domino (Extra)
 * Gecertificeerd Expert: [HCL Domino Administration](https://www.hcl-software.com/domino)
