@@ -6,7 +6,6 @@ Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, foc
 
 > **"Mijn Motto: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".**
 
-### **Het Persoonlijke R&D Ecosysteem (Homelab):**
 Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Het Lab is gebouwd als gereedschap voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org). 
 * **Virtualisatie:** Als platform gebruik ik [KVM-virtualisatie](https://www.linux-kvm.org)  
 * **Data Protection:** Als back-up oplossing [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/proxmox-backup-server)
@@ -14,9 +13,9 @@ Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het klop
 * **Monitoring & Analyse:** Rapportage en analyse [Grafana](https://grafana.com) en [InfluxDB](https://www.influxdata.com), Monitoring [Home Assistant (HA)](https://www.home-assistant.io)
 * **Creatieve Integratie:** Ik gebruik mijn kennis in [HCL Domino Email Routing & Topologie](https://www.hcl-software.com/domino) voor de opslag van documentatie en de rapportage vanuit [Grafana](https://grafana.com). Mijn eigen creatieve keuze!
 
-### Actueel Onderzoek:
-In mijn Lab, als **"De Homelabber"**, onderzoek ik momenteel: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation), **"De Toekomst in Huis"**.
-* **Cognitive Automation:** Ik onderzoek de inzet en mogelijkheden van [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation). 
+### Onderzoek:
+In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation), **"De Toekomst in Huis"**.
+* **Automation:** Ik onderzoek de inzet en mogelijkheden van [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation). 
 
 > **De stap van een 'Bestuurbaar' huis naar een huis dat begrijpt wat je nodig hebt.**
 
