@@ -8,20 +8,24 @@ Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, foc
 
 Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Het Lab is gebouwd als gereedschap voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org). 
 
-### Homelab:
-* Virtualisatie:[KVM-virtualisatie](https://www.linux-kvm.org)  
+### **De HomeLab Stack:**
+* Virtualisatie: [KVM-virtualisatie](https://www.linux-kvm.org)  
 * Data Storage: [QNAP](https://www.qnap.com), [HCL Domino](https://www.hcl-software.com/domino)
 * Data Protection: [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/proxmox-backup-server)
 * Data Analyse: [Grafana](https://grafana.com)
 * Database: [InfluxDB](https://www.influxdata.com), [HCL Domino](https://www.hcl-software.com/domino)
-* Monitoring & Analyse: [Grafana](https://grafana.com), [Home Assistant (HA)](https://www.home-assistant.io)
-* AI Lifeline: [Gemini AI-API](https://ai.google.dev/)
-* AI Focus: [Voice Pipeline Edition (PE)](https://voice-pe.home-assistant.io)
-* Workflow Engine: [n8n](https://n8n.io), [Node-RED](https://nodered.org/)
-* Documenet Management Systeem: [HCL Domino](https://www.hcl-software.com/domino) 
+* Monitoring & Analyse: [Grafana](https://grafana.com), [Home Assistant (HA)](https://www.home-assistant.io) 
+* Passwrod Polivy: [LastPass](https://www.lastpass.com/)
 * FireWall: [PfSence](https://www.pfsense.org/), [Netgate SG Series](https://www.netgate.com/)
 * VPN Router: [ExpressVPN](https://www.expressvpn.com/) (NUC op Bare Metal)
+* Networking: [AdGuard Home](https://adguard.com/nl/adguard-home/overview.html), [Twingate]https://www.twingate.com)
+* Security: [DigiCert](https://www.digicert.com), [TOTP (2FA)](https://en.wikipedia.org/wiki/Time-based_one-time_password)
 * WiFi: [Netgear](https://www.netgear.com/)
+* AI Focus: [Voice Pipeline Edition (PE)](https://voice-pe.home-assistant.io)
+* AI Lifeline: [Gemini AI-API](https://ai.google.dev/)
+* Energy: [Tado](https://www.tado.com), [SolarEdge](https://www.solaredge.com), [Ethernet P1 Pro+](https://smart-stuff.nl/).
+* Workflow Engine: [n8n](https://n8n.io), [Node-RED](https://nodered.org/)
+* Documenet Management Systeem: [HCL Domino](https://www.hcl-software.com/domino) 
 * Creatieve Integratie: Ik gebruik [HCL Domino](https://www.hcl-software.com/domino) voor de opslag van manuals, documentatie en de rapportage vanuit [Grafana](https://grafana.com). Mijn eigen Documnet Manage Sysyeem (DMS) op [HCL Domino](https://www.hcl-software.com/domino)!
 
 ### Onderzoek:
