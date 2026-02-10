@@ -15,7 +15,7 @@ Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het klop
 * **Creatieve Integratie:** Ik gebruik mijn kennis in [HCL Domino Email Routing & Topologie](https://www.hcl-software.com/domino) voor de opslag van documentatie en de rapportage vanuit [Grafana](https://grafana.com). Mijn eigen creatieve keuze!
 
 ### Actueel Onderzoek:
-In mijn Lab, als **"De Homelabber"**, onderzoek ik momenteel: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation), "De Toekomst in Huis".
+In mijn Lab, als **"De Homelabber"**, onderzoek ik momenteel: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation), **"De Toekomst in Huis"**.
 * **Cognitive Automation:** Ik onderzoek de inzet en mogelijkheden van [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation). 
 
 > **De stap van een 'Bestuurbaar' huis naar een huis dat begrijpt wat je nodig hebt.**
