@@ -2,7 +2,7 @@
 
 > ICT-architect (R&D) met een passie voor procesoptimalisatie. Beheert een enterprise-grade Homelab waar **Open Source** en **AI** samenkomen.
 
-Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. De mens staat bij mij altijd centraal. In een wereld die transformeert door intelligentie, hanteer ik een heldere, toekomstgerichte filosofie:
+Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. De mens staat bij mij altijd centraal. In een wereld die transformeert door intelligentie, hanteer ik een heldere, toekomstgerichte filosofie.
 
 > **"Mijn Motto: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".**
 
