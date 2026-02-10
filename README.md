@@ -8,6 +8,8 @@ Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, foc
 
 Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Het Lab is gebouwd als gereedschap voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org). 
 * **Virtualisatie:** [KVM-virtualisatie](https://www.linux-kvm.org)  
+
+* **Data Storage:  [QNAP](https://www.qnap.com), [HCL Domino](https://www.hcl-software.com/domino)
 * **Data Protection:** [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/proxmox-backup-server)
 * **AI-Lifeline:** [Gemini AI-API](https://ai.google.dev/)
 * **Monitoring & Analyse:** [Grafana](https://grafana.com), [Home Assistant (HA)](https://www.home-assistant.io)
