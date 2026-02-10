@@ -43,9 +43,9 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 > **Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste stap te zijn geweest voor de toekomst. Wat ooit begon als een persoonlijke fascinatie voor techniek en dan hierin ook een baan met passie vinden, was een droom. Ik heb dat kunnen omzetten naar mijn werk !
 
 ### HCL Domino (Extra)
-* **Gecertificeerd Expert: [HCL Domino Administration](https://www.hcl-software.com/domino)
-* **Messaging & Collaboration Expert: [HCL Domino Email Routing & Topology](https://www.hcl-software.com/domino)
-* **Architectuur Expert: [Performance Tuning & Troubleshooting](https://www.hcl-software.com/domino), [Domino Security & Infrastructure Design](https://www.hcl-software.com/domino) [HCL Advanced Topology](https://www.hcl-software.com/domino)
+* Gecertificeerd Expert: [HCL Domino Administration](https://www.hcl-software.com/domino)
+* Messaging & Collaboration Expert: [HCL Domino Email Routing & Topology](https://www.hcl-software.com/domino)
+* Architectuur Expert: [Performance Tuning & Troubleshooting](https://www.hcl-software.com/domino), [Domino Security & Infrastructure Design](https://www.hcl-software.com/domino) [HCL Advanced Topology](https://www.hcl-software.com/domino)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willemsej)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willemsej)
