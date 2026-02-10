@@ -16,14 +16,12 @@ Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het klop
 * **Creatieve Integratie:** Ik gebruik mijn kennis in [HCL Domino Email Routing & Topologie](https://www.hcl-software.com/domino) voor de opslag van manuals, documentatie en de rapportage vanuit [Grafana](https://grafana.com). Mijn eigen creatieve keuze!
 
 ### Onderzoek:
-In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation), **"De Toekomst in Huis"**.
+In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation), **"De Toekomst in Huis"**
 * **Automation:** Ik onderzoek de inzet en mogelijkheden van [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation). 
 
 > **De stap van een 'Bestuurbaar' huis naar een huis dat begrijpt wat je nodig hebt.**
 
-* **De Digitale Waakhond:** Ik onderzoek de inzet van [AI-modellen](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) voor voorspellend onderhoud van [Lokaal Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer).   
-
-> **"De Autonome Beheerder. AI-modellen waken over zijn lokale systemen. In plaats van te reageren op fouten, De Digitale Waakhond ziet problemen aankomen nog voordat ze ontstaan. Waar nodig onderneemt het systeem automatisch actie, zodat de techniek zichzelf herstelt nog voordat [Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer). of de gebruiker hier iets van hebben gemerkt."**
+* **De Digitale Waakhond:** Ik onderzoek de inzet van [AI-modellen](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) voor [Lokaal Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer). **"De Autonome Beheerder"**
 
 ### **De Stack:**
 | Categorie | Technologie |
