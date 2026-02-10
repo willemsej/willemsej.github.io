@@ -7,11 +7,11 @@ Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, foc
 > **"Mijn Motto: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".**
 
 Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Het Lab is gebouwd als gereedschap voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org). 
-* **Virtualisatie:** Als platform gebruik ik [KVM-virtualisatie](https://www.linux-kvm.org)  
-* **Data Protection:** Als back-up oplossing [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/proxmox-backup-server)
-* **AI-Lifeline:** In mijn onderzoek naar [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation) gebruik ik de [Gemini AI-API](https://ai.google.dev/)
-* **Monitoring & Analyse:** Rapportage en analyse [Grafana](https://grafana.com) en [InfluxDB](https://www.influxdata.com), Monitoring [Home Assistant (HA)](https://www.home-assistant.io)
-* **Creatieve Integratie:** Ik gebruik mijn kennis in [HCL Domino Email Routing & Topologie](https://www.hcl-software.com/domino) voor de opslag van documentatie en de rapportage vanuit [Grafana](https://grafana.com). Mijn eigen creatieve keuze!
+* **Virtualisatie:** [KVM-virtualisatie](https://www.linux-kvm.org)  
+* **Data Protection:** [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/proxmox-backup-server)
+* **AI-Lifeline:** [Gemini AI-API](https://ai.google.dev/)
+* **Monitoring & Analyse:** [Grafana](https://grafana.com), [Home Assistant (HA)](https://www.home-assistant.io)
+* **Creatieve Integratie:** Ik gebruik mijn kennis in [HCL Domino Email Routing & Topologie](https://www.hcl-software.com/domino) voor de opslag van manuals, documentatie en de rapportage vanuit [Grafana](https://grafana.com). Mijn eigen creatieve keuze!
 
 ### Onderzoek:
 In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation), **"De Toekomst in Huis"**.
