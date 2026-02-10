@@ -8,9 +8,8 @@ Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, foc
 
 Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Het Lab is gebouwd als gereedschap voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org). 
 * **Virtualisatie:** [KVM-virtualisatie](https://www.linux-kvm.org)  
-
 * **Data Storage:  [QNAP](https://www.qnap.com), [HCL Domino](https://www.hcl-software.com/domino)
-* **Data Protection:** [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/proxmox-backup-server)
+* **Data Protection: [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/proxmox-backup-server)
 * **AI-Lifeline:** [Gemini AI-API](https://ai.google.dev/)
 * **Monitoring & Analyse:** [Grafana](https://grafana.com), [Home Assistant (HA)](https://www.home-assistant.io)
 * **Creatieve Integratie:** Ik gebruik mijn kennis in [HCL Domino Email Routing & Topologie](https://www.hcl-software.com/domino) voor de opslag van manuals, documentatie en de rapportage vanuit [Grafana](https://grafana.com). Mijn eigen creatieve keuze!
@@ -23,6 +22,8 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 
 * **De Digitale Waakhond:** Ik onderzoek de inzet van [AI-modellen](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) voor [Lokaal Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer). **"De Autonome Beheerder"**
 
+> **"In de evolutie van de Labber naar ICT-Professional, is **"De Autonome Beheerder"** de ultieme eindfase."**
+
 ### **De Stack:**
 | Categorie | Technologie |
 | :--- | :--- |
@@ -33,12 +34,12 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 | **Storage** | [QNAP](https://www.qnap.com), [HCL Domino](https://www.hcl-software.com/domino) |
 | **Energy** | [Tado](https://www.tado.com),[SolarEdge](https://www.solaredge.com) |
 
-> **"Mijn Visie: "Van een Adviserende AI naar een Actieve, Autonome AI-partner."**
+> **"Van een Adviserende AI naar een Actieve, Autonome AI-partner."**
 
 ## Expertisegebieden:
-### ICT Management & Procesoptimalisatie
+## ICT Management & Procesoptimalisatie
 * **Strategisch Advies:** Altijd met de menselijke maat als vertrekpunt.
-* **Transformatie:** ICT-infrastructuren (R&D).
+* **Advies:** Home R&D ICT-infrastructuren.
 ### Smart Home Innovation
 * **Home Assistant:** [Home Assistant](https://www.home-assistant.io)
 * **AI-Focus:** [Voice Pipeline Edition (PE)](https://voice-pe.home-assistant.io) en [Chime TTS](https://nimroddolev.github.io/chime_tts/)
